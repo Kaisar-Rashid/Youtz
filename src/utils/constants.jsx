@@ -32,7 +32,6 @@ export const categories = [
   { name: "Gym", icon: <FitnessCenterIcon /> },
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
-x;
 
 export const demoThumbnailUrl = "";
 export const demoChannelUrl = "";
